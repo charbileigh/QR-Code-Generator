@@ -54,3 +54,24 @@ body {
     color: white;
 
 }
+
+/* #imgBox {
+    width: 200px;
+    border-radius: 5px;
+    max-width: 0;
+    overflow: hidden;
+    transition: max-height 1s;
+}
+
+#imgBox #qrImage {
+    width: 100%;
+    padding: 10px;
+
+}
+
+#imgBox.show-img {
+    max-height: 300px;
+    margin: 10px auto;
+    border: 1px solid #d1d1d1;
+
+} */
